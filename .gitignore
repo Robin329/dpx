@@ -1,0 +1,9 @@
+compile_commands.json
+*.o
+compile
+depcomp
+config.guess
+config.sub
+missing
+ltmain.sh
+install-sh
